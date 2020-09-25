@@ -1,6 +1,6 @@
 # gait-wearable
 This is an implementation of a wearable sensor for gait estimation using the MPU 6050 (Accelerometer, Gyroscope, 6 Axis Sensor) on top of an ESP32 (for reading and bluetooth comunication). The data loging and postprocessing is done using python.
-<p style="text-align:center;"><img src="gait-wearable.png" alt="gait-wearable" width="400"/> </p>
+<p align="center"><img src="gait-wearable.png" alt="gait-wearable" width="300"/> </p>
 
 # First Steps
 ## Install the Arduino IDE 
